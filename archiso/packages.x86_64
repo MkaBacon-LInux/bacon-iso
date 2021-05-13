@@ -121,16 +121,16 @@ papirus-maia-icon-theme-git
 sardi-icons
 
 # Misc
-gksu
 unrar
 unzip
 file-roller
 p7zip
 yay
-mintstick-git
+#mintstick-git
 xed-git
 base
 base-devel
+numlockx
 os-prober
 dialog
 dnsutils
@@ -142,6 +142,7 @@ ntp
 w3m
 wget
 zenity
+meld
 
 # Android Tools
 aosp-devel
@@ -152,12 +153,13 @@ xml2
 android-udev
 android-tools
 git
+#python-pyparted
 
 # XFCE
 xfce4
 xfce4-goodies
 lightdm
-lightdm-gtk-greeter:
+lightdm-gtk-greeter
 
 # Display
 nvidia
@@ -165,7 +167,7 @@ nvidia-utils
 nvidia-settings
 
 # Calamares Depends
-ckbcomp
+#ckbcomp
 upower
 kcoreaddons
 kconfig
@@ -185,7 +187,7 @@ adobe-source-han-sans-kr-fonts
 adobe-source-han-sans-cn-fonts
 
 # Calamares For MkaBacon
-#bacon-calamares
+#calamares
 
 # File Manager
 gvfs
@@ -224,6 +226,8 @@ networkmanager-openconnect
 networkmanager-openvpn
 networkmanager-pptp
 networkmanager-vpnc
+telegram-desktop
+chromium
 openresolv
 
 # Bluetooth

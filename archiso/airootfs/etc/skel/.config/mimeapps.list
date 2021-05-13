@@ -1,0 +1,8 @@
+[Default Applications]
+x-scheme-handler/tg=userapp-Telegram Desktop-46MW20.desktop
+
+[Added Associations]
+x-scheme-handler/tg=userapp-Telegram Desktop-46MW20.desktop;
+text/plain=xed.desktop;
+application/x-shellscript=xed.desktop;
+image/png=gimp.desktop;
